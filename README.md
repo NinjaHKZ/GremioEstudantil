@@ -48,5 +48,5 @@ Após a apresentação, marcos e aline(caso nós for falar sobre os nossos proje
 3. [x] Um blog para o nosso colégio. Onde vai estar sendo postado feitos do grêmio e avisos de nosso colégio, também poderá
 ser utilizado para outras atividades.
 
-# Final:
+# Final: (OPCIONAL)
  José vai agradecer a atenção de todos e falar alguma coisinha, logo após vai passar para o próximo grupo que vai estar lá ou vai passar para a tutora do grêmio, para  ela começar a palestra.
