@@ -28,7 +28,7 @@ Após a apresentação, marcos e aline(caso nós for falar sobre os nossos proje
 3. Exclarecimento do que vai ter(união do grêmio para discutir projetos e afins e a palestra)
 4. Explicar a palestra(objetivo)
 5. Agradecimento final
-6. Passar ao josé a finalização
+6. Passar ao josé a finalização (OPCIONAL)
 
 
 ## Fala do marco caso a gente vá falar sobre os feitos:
@@ -49,4 +49,4 @@ Após a apresentação, marcos e aline(caso nós for falar sobre os nossos proje
 ser utilizado para outras atividades.
 
 # Final: (OPCIONAL)
- José vai agradecer a atenção de todos e falar alguma coisinha, logo após vai passar para o próximo grupo que vai estar lá ou vai passar para a tutora do grêmio, para  ela começar a palestra.
+ José vai agradecer a atenção de todos e falar alguma coisinha, logo após vai passar para o próximo grupo que vai estar lá ou vai passar para a tutora do municipio, para  ela começar a palestra.
