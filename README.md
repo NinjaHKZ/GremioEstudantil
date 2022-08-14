@@ -21,7 +21,7 @@ Após a apresentação, marcos e aline(caso nós for falar sobre os nossos proje
 
 
 ## Fala do marco:
->Um bom dia a todos, agora é a minha vez de me apresentar, eu me chamo marcos e sou o tesoureiro do nosso Grêmio Estudantil. Antes de começar gostaria de agradecer a presença de todos que aqui estão presentes, afinal sem vocês não seria possível realizar o encontro. Bom, hoje teremos uma união do grêmio estudantil para discutir sobre planos e compartilhar nossos projetos e também haverá uma palestra, sabemos que para muitos a idéia e propósito do grêmio não é tão evidente e com o intuíto de ajudar a saciar essa questão, a tutora do município vai estar falando sobre a importância do grêmio estudantil, o que podemos fazer e o que não podemos fazer, qual o propósito e entre outros assuntos. Esperamos de coração que todos possam tirar um bom proveito de tudo que vai ser dito por aqui. Agora para finalizar a nossa palavra, estarei passando a vóz para o nosso presidente, o josé.
+>Um bom dia a todos, agora é a minha vez de me apresentar, eu me chamo marcos e sou o tesoureiro do nosso Grêmio Estudantil. Antes de começar gostaria de agradecer a presença de todos que aqui estão presentes, afinal sem vocês não seria possível realizar o encontro. Bom, hoje teremos uma união do grêmio estudantil para discutir sobre planos e compartilhar nossos projetos e também haverá uma palestra, sabemos que para muitos a idéia e propósito do grêmio não é tão evidente e com o intuíto de ajudar a saciar essa questão, a tutora do município vai estar falando sobre a importância do grêmio estudantil, o que podemos fazer e o que não podemos fazer, qual o propósito e entre outros assuntos. Esperamos de coração que todos possam tirar um bom proveito de tudo que vai ser dito por aqui. Agradecemos a atenção de todos vocês e esperamos que tenham um ótimo dia.
 
 1. [x] Apresentação minha
 2. [x] Agradecimento inicial
@@ -29,6 +29,17 @@ Após a apresentação, marcos e aline(caso nós for falar sobre os nossos proje
 4. [x] Explicar a palestra(objetivo)
 5. [x] Agradecimento final
 6. [x] Passar ao josé a finalização
+
+### Feitos:
+caso a gente vá mencionar os feitos do grêmio:
+1. [x] Consicentização sobre o meio-ambiente
+2. [x] Combate a dengue
+3. [x] Maio-Laranja
+4. [x] Conscientização sobre a prova paraná(onde adquirimos mais de 90% de presença dos alunos di dia da prova) 
+
+### Projetos:
+1. [x] A Cantina que estamos planejando implementar, onde todo dinheiro adquirido vai ser investido em nosso colégio e para atividades recrativas de nossos alunos
+2. [x] Um website/aplicativo que está sendo desenvolvido um protótipo para ver como ficará a sua implementação.
 
 # Final:
  José vai agradecer a atenção de todos e falar alguma coisinha, logo após vai passar para o próximo grupo que vai estar lá ou vai passar para a tutora do grêmio, para  ela começar a palestra.
