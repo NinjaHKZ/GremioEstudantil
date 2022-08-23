@@ -1,4 +1,4 @@
-# SETEMBRO AMARELO
+# SETEMBRO AMARELO DE 2022 - GRÊMIO ESTUDANTIL
 
 ![img](https://th.bing.com/th/id/R.6a95f84eeb7161f9205a421790851cc3?rik=wa0BZCFWOZI0Ow&riu=http%3a%2f%2fgujsp.com.br%2fwp-content%2fuploads%2f2019%2f09%2fSetembro-amarelo-1.jpg&ehk=uO%2fMoPrgiGt4y1xlwWMeKBGDTXNJm%2bLjaM5FSxmxmNs%3d&risl=&pid=ImgRaw&r=0 "casa")
 
@@ -10,9 +10,9 @@ Setembro é o mês do combate ao suicídio, então iremos focar nesse tema o mê
 
 ## Eventos e Prioridades:
 O setembro deve ser focado em eventos principais:
-- Teatro(Inicio do mês); 
-- Palestra(Meio do mês);
-- Atividade Dinâmica(fim do mês);
+- **Teatro** (Inicio do mês); 
+- **Palestra** (Meio do mês);
+- **Atividade Dinâmica** (fim do mês);
 
 
 | Evento Principal | Data |
@@ -22,10 +22,10 @@ O setembro deve ser focado em eventos principais:
 | **Atividades dinâmicas** | dia 20(se possível) |
 
 E como complemento utilizaremos alguns eventos paralelos:
-- Cartazes; 
-- Vídeo; 
-- Folhetos; 
-- Outras atividades; 
+- **Cartazes** (Divulgando o número do CVV e incentivando a busca por ajuda); 
+- **Vídeo** (Falando sobre depressão e incentivando a busca por ajuda); 
+- **Folhetos** (Divulgando o número do CVV e incentivando a busca por ajuda); 
+- **Outras atividades**; 
 
 | Evento Paralelo | Foco |
 |-----------------|------|
