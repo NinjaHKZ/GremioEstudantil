@@ -1,5 +1,4 @@
-# Helloween :abo
-
+# 🎃 Helloween 🎃
 Esse é um "plano" para a festa de helloween que será dia 29 de outubro na manhã toda.
 
 # Evento
