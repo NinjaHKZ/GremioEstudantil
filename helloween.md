@@ -1,4 +1,4 @@
-# Helloween
+# Helloween :abo
 
 Esse é um "plano" para a festa de helloween que será dia 29 de outubro na manhã toda.
 
@@ -37,31 +37,54 @@ Consiste em um concurso em que a pessoa que estiver mais caracterizada ganha, va
 Basicamente teremos um lugar onde alunos podem tirar foto ou nós mesmo do grêmio fotografar e então colocaremos as imagens em um mural no colégio para ficar em exposição. 
 
 
-## Alimentação e Enfeites
+## Alimentação e Enfeites:
 ### Comida
 - Pirulitos e Balas
 - Doces em geral(paçoca, pé de moleque, doce de amendoin, doce de leite, brigadeiro e etc...)
-- Bolos e Salgados(cachorro quente, torta, bolo de carne e etc...)
-- Refrigerantes e aquela do caldeirão
-- Potinho com Doces dentro(para o caça ao tsouro)
-- Alguns doces diferenciados como barrinhas de chocolate ou algo assim(para as premiações)
+- Bolos e Salgados(cachorro quente, torta, bolo de carne, pipoca e etc...)
+- Refrigerantes, sucos e aquela bebida do caldeirão
+- Potinhos com doces dentro(para o caça ao tesouro e premiações)
+- Alguns doces diferenciados como barrinhas de chocolate ou algo assim(para as premiações, deve ser algo que não tenha nas mesas para incentivar os alunos a participarem)
 
 ### Enfeites
-- Fantasminha de TNT com Balão
+- Fantasminhas de TNT com Balão ou Papelão
 - TNT preto, branco e dourado pendurados e cobrindo as mesas
 - Morcegos, Aranhas, Bruxas, Vassouras, Esqueletos, ossos, etc...
-- Potinhos de Aboboras ou Abobora enfeitada
+- Potinhos de Abóboras ou Abóbora em si porém enfeitada
 
 
-## Posicionamento dos itens
+## Posicionamento dos itens:
 ### Eventos
 Eventos como o desfile, competição, show e essas coisas devem ser feitos no salão.
 
 ### Mesa com alimento
-A mesa principal pode ficar no local onde fica as filas ou na sala de química, mas seria interessante ter também algo mais "simples" no salão.
+A mesa principal pode ficar no local onde fica as filas ou na sala de química, mas seria interessante ter também algo mais "simples" no salão como ter pipoca lá.
 
 ### Enfeites
-Podemos decorar bastante o nosso salão do colégio, afinal é onde vai ser o "foco" da evento
+Podemos decorar bastante o nosso salão do colégio, afinal é onde vai ser o "foco" do evento
+
+
+## Esquema de quando cada evento vai ser iniciado:
+| evento | Inicio | Finalização |
+|--------|--------|-------------|
+| Organizar tudo | 6:40 ou 7:10 | 8:00 |
+| Desfile | 8:30 | 9:10 |
+| Concurso de Melhor Fantasia | 9:15 | 9:25 |
+| Vencedor do Maior Sapato | 9:30 | 9:40 |
+| Organizar e dar inicio o caça ao tesouro | 9:50 | Até o fim |
+| Intervalo | 9:50 | 10:05 ou 10:10 |
+| Show | +10:10 | Tempo que precisar |
+| Alguma gincana | tempo que acabar o show se der tempo | até o final do evento |
+
+
 
 ## OUTROS
-Fazer uma "declaração" com o diretor para o grêmio tentar adquirir alguns itens de forma mais baratas ou por doação dos mercados, arrumar tecido TNT(preto, vermelho e amarelo) para forrar mesas e para outras utilizações, papel creppon(para pendurar), cartolina, EVA ou papelão(para fazer os bichinhos), bexigas ou papelão para fazer os fantasminhas grandes, tentar marcar o show para o dia 29, fazer os cálculos do quanto vamos gastar e o que sobrar podemos talvez compartilhar com os de tarde  
+- Fazer uma "declaração" com o diretor para o grêmio tentar adquirir alguns itens de forma mais baratas ou por doação dos mercados
+- Arrumar tecido TNT(preto, vermelho e amarelo) para forrar mesas e para outras utilizações
+- Papel creppon(para pendurar), cartolina, EVA ou papelão(para fazer os bichinhos) 
+- Bexigas ou papelão para fazer os fantasminhas grandes
+- Tentar marcar o show para o dia 29 de outubro
+- Fazer os cálculos do quanto vamos gastar por aluno(o que sobrar podemos talvez compartilhar com os de tarde ou compartilhar na rua)
+- Separar a responsabilidade de cada membro para ser possível a realização do evento e organização do mesmo
+- Podemos pedir ajuda com os alimentos e enfeites para outros alunos(e assim aliviar o trabalho e os gastos)
+
