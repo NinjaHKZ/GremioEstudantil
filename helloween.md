@@ -2,12 +2,9 @@
 
 Esse é um "plano" para a festa de helloween que será dia 29 de outubro na manhã toda.
 
-
-
 # Evento
 
 Aqui está listado os itens em que teremos no dia do evento de Helloween
-
 
 ## Principal:
 - Um show da Larissa Blanco
@@ -38,3 +35,33 @@ Consiste em um concurso em que a pessoa que estiver mais caracterizada ganha, va
 ### Mural de fotos:
 
 Basicamente teremos um lugar onde alunos podem tirar foto ou nós mesmo do grêmio fotografar e então colocaremos as imagens em um mural no colégio para ficar em exposição. 
+
+
+## Alimentação e Enfeites
+### Comida
+- Pirulitos e Balas
+- Doces em geral(paçoca, pé de moleque, doce de amendoin, doce de leite, brigadeiro e etc...)
+- Bolos e Salgados(cachorro quente, torta, bolo de carne e etc...)
+- Refrigerantes e aquela do caldeirão
+- Potinho com Doces dentro(para o caça ao tsouro)
+- Alguns doces diferenciados como barrinhas de chocolate ou algo assim(para as premiações)
+
+### Enfeites
+- Fantasminha de TNT com Balão
+- TNT preto, branco e dourado pendurados e cobrindo as mesas
+- Morcegos, Aranhas, Bruxas, Vassouras, Esqueletos, ossos, etc...
+- Potinhos de Aboboras ou Abobora enfeitada
+
+
+## Posicionamento dos itens
+### Eventos
+Eventos como o desfile, competição, show e essas coisas devem ser feitos no salão.
+
+### Mesa com alimento
+A mesa principal pode ficar no local onde fica as filas ou na sala de química, mas seria interessante ter também algo mais "simples" no salão.
+
+### Enfeites
+Podemos decorar bastante o nosso salão do colégio, afinal é onde vai ser o "foco" da evento
+
+## OUTROS
+Fazer uma "declaração" com o diretor para o grêmio tentar adquirir alguns itens de forma mais baratas ou por doação dos mercados, arrumar tecido TNT(preto, vermelho e amarelo) para forrar mesas e para outras utilizações, papel creppon(para pendurar), cartolina, EVA ou papelão(para fazer os bichinhos), bexigas ou papelão para fazer os fantasminhas grandes, tentar marcar o show para o dia 29, fazer os cálculos do quanto vamos gastar e o que sobrar podemos talvez compartilhar com os de tarde  
